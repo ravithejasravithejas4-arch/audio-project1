@@ -1,5 +1,5 @@
-stermlit
-audio-record-steamlit
+streamlit
+audio-record-streamlit
 deep-translator
 gTTS
 SpeechRecognition
