@@ -1,0 +1,5 @@
+stermlit
+audio-record-steamlit
+deep-translator
+gTTS
+SpeechRecognition
